@@ -1,0 +1,14 @@
+{
+    "PORT": "5001",
+    "PRIVATE_KEY": "codeforindia",
+    "URL": "http://192.168.68.77:5001",
+    "DB_URI": "",
+    "EMAIL_SMTP": {
+        "HOST": "mail.sarwath.com",
+        "AUTH": {
+            "USER": "sarwath@sarwath.com",
+            "PASSWORD": "A4;)3Vgw10MfWx"
+        },
+        "PORT": 465
+    }
+}

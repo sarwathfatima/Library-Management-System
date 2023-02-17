@@ -7,8 +7,8 @@ async function sendMail(text,rec) {
     port: 587,
     secure: false, // true for 465, false for other ports
     auth: {
-      user: "info@zoheb.me", // generated ethereal user
-      pass: "s={(XG!0}Xvq", // generated ethereal password
+      user:"info@zoheb.me", //generated ethereal user
+      pass:"s={(XG!0}Xvq", //generated ethereal password
     },
     tls: {
       rejectUnauthorized: false,
